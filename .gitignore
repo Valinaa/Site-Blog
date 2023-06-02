@@ -1,0 +1,10 @@
+node_modules
+.vitepress/cache
+.vitepress/dist
+dist
+cache
+public
+.temp
+.DS_Store
+.vscode
+pnpm-lock.yaml
